@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lem:home|Door43 (lem)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lem|d43-lem repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lem/archive/master.zip|d43-lem.zip]]
+
+**Recent Changes**
+{{changes>ns = lem}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lem|Ethnologue data]]
+
